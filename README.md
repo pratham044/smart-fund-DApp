@@ -45,6 +45,12 @@ To deploy this project run
 
 
 ## Screenshots
+![home](https://github.com/pratham044/smart-fund-DApp/assets/113813777/e653049f-f4ff-4a8b-a543-117f13a8461c)
+![backProject](https://github.com/pratham044/smart-fund-DApp/assets/113813777/a0406310-f41d-4fc9-8239-6b565c3f1a75)
+![editProject](https://github.com/pratham044/smart-fund-DApp/assets/113813777/0fa02f93-c01b-41ff-9a3e-2177712b391a)
+![metamask](https://github.com/pratham044/smart-fund-DApp/assets/113813777/27d438f8-0ab5-4112-82fe-1091d56f0425)
+![project](https://github.com/pratham044/smart-fund-DApp/assets/113813777/e2af29da-4c25-46cc-9e98-23c9e6b09411)
+![projects](https://github.com/pratham044/smart-fund-DApp/assets/113813777/471ff6f3-2abb-4651-af3b-3529a90105a5)
 
 
 ## Features
