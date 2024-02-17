@@ -6,7 +6,7 @@ SmartFund is like a simple crowdfunding site, but cooler! You can make, tweak, a
 ## 🛠 Tools Used
 - **Solidity**: Used for writing smart contracts on the Ethereum blockchain.
 - **MetaMask**: Integrated for secure transaction handling and wallet management.
-- **ReactJS (Vite) **: Utilized for building the frontend user interface and interactive components.
+- **ReactJS (Vite)**: Utilized for building the frontend user interface and interactive components.
 - **Hardhat**: Employed for development and testing of Ethereum smart contracts.
 
 ## Run Locally
